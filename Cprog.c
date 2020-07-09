@@ -13,4 +13,5 @@
 	c = a%b;
 	printf("Remainder when a divided by b = %d \n",c);
 	return 0;
-}c
+}
+
