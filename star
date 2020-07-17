@@ -9,7 +9,7 @@
     {
         printf("*");
       }
-        ptintf("\n");
+        printf("\n");
     }
         }
      } 
