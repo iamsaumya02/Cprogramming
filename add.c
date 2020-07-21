@@ -1,11 +1,10 @@
    #include<stdio.h>
-    #include<conio.h>
+  
      int add();
      void main()
 {
-	clrscr();
 	add();
-	getch();
+
 }
  int add()
 {

@@ -1,11 +1,11 @@
    #include<stdio.h>
-   #include<conio.h>
+   
     int subtract();
     void main()
       {
-	      clrscr();
+	     
 	      subtract();
-	      getch();
+	      
       }
         int subtract()
 	 {
