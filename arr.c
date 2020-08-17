@@ -4,7 +4,9 @@
 	  char name[10];
 	  printf("Enter name:\n");
 	  scanf("%[^\n]",name);
-	  printf("result:%s" ,name);
+	  printf(" Result: hii %s", name);
+	  
+
   }
   
    
